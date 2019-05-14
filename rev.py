@@ -1,2 +1,3 @@
-n=input()
-print("".join(reversed(n))
+string=input()
+string=string[::-1]
+print(string)
