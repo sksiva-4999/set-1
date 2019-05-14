@@ -1,3 +1,3 @@
-string=input()
-string=string[::-1]
+str=input()
+string=str[::-1]
 print(string)
